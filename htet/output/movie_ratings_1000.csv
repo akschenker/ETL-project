@@ -1,0 +1,538 @@
+,index,Title,imdbRating
+0,0,The Hunger Games,7.2
+1,2,Twilight,5.2
+2,3,To Kill a Mockingbird,8.3
+3,4,The Great Gatsby,7.3
+4,5,The Fault in Our Stars,7.8
+5,7,The Catcher in the Rye,2.1
+6,8,Angels & Demons,6.7
+7,9,Pride and Prejudice,8.9
+8,10,The Kite Runner,7.6
+9,11,Divergent,6.7
+10,12,Nineteen Eighty-Four,7.6
+11,16,Catching Fire,6.4
+12,17,Harry Potter and the Prisoner of Azkaban,7.9
+13,18,The Lord of the Rings: The Fellowship of the Ring,8.8
+14,19,The Hunger Games: Mockingjay - Part 1,6.7
+15,20,Harry Potter and the Order of the Phoenix,7.5
+16,21,The Lovely Bones,6.7
+17,22,Harry Potter and the Chamber of Secrets,7.4
+18,23,Harry Potter and the Goblet of Fire,7.7
+19,24,Harry Potter and the Deathly Hallows: Part 2,8.1
+20,25,The Da Vinci Code,6.6
+21,26,Harry Potter and the Half-Blood Prince,7.6
+22,27,Lord of the Flies,6.4
+23,29,Gone Girl,8.1
+24,30,The Help,8.1
+25,31,Of Mice and Men,7.5
+26,32,Memoirs of a Geisha,7.4
+27,33,Fifty Shades of Grey,4.1
+29,35,The Giver,6.5
+30,36,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",6.9
+31,37,The Time Traveler's Wife,7.1
+33,40,Percy Jackson & the Olympians: The Lightning Thief,5.9
+34,41,Little Women,7.3
+35,42,Jane Eyre,7.4
+36,43,The Notebook,7.9
+37,44,Water for Elephants,6.9
+38,45,The Book Thief,7.6
+39,46,Fahrenheit 451,7.3
+40,49,The Mortal Instruments: City of Bones,5.9
+41,50,Eclipse,6.0
+42,51,Eragon,5.1
+43,52,The Hitchhiker's Guide to the Galaxy,6.8
+44,53,Brave New World,5.3
+45,54,Breaking Dawn,5.7
+46,55,The Secret Life of Bees,7.3
+47,56,The Adventures of Huckleberry Finn,6.3
+48,57,Charlotte's Web,6.3
+49,58,National Theatre Live: The Curious Incident of the Dog in the Night-Time,8.4
+50,59,The Girl on the Train,6.5
+51,60,Northern Lights,5.9
+52,61,Wuthering Heights,7.7
+53,62,My Sister's Keeper,7.4
+54,64,Gone with the Wind,8.2
+56,66,The Perks of Being a Wallflower,8.0
+57,67,Insurgent,6.2
+58,68,Ender's Game,6.6
+60,70,The Shining,8.4
+61,71,The Host,5.9
+63,73,Sense and Sensibility,7.7
+64,74,Holes,7.0
+65,75,The Devil Wears Prada,6.9
+66,77,Le Petit Prince,7.3
+67,78,The Glass Castle,7.2
+68,79,Into the Wild,8.1
+69,80,A Tale of Two Cities,7.8
+70,81,Jurassic Park,8.1
+71,82,The Giving Tree,4.1
+72,83,A Time to Kill,7.4
+73,85,Paper Towns,6.3
+74,86,The Princess Bride,8.1
+75,87,The Outsiders,7.2
+76,88,The Maze Runner,6.8
+77,90,The Secret Garden,7.3
+78,92,The Picture of Dorian Gray,7.6
+79,93,Fifty Shades Freed,4.4
+80,94,Dracula,7.6
+81,96,Fifty Shades Darker,4.6
+82,99,Where the Wild Things Are,6.8
+83,100,Le comte de Monte-Cristo,8.2
+84,101,The Road,7.3
+85,102,Allegiant,5.7
+86,103,A Walk to Remember,7.4
+87,104,Confessions of a Shopaholic,5.9
+88,105,Les Misérables,7.6
+89,107,The Memory Keeper's Daughter,6.7
+90,108,Me Before You,7.4
+91,109,Catch-22,7.2
+92,110,Tuesdays with Morrie,7.5
+93,111,Big Fish in Middlesex,8.1
+94,112,The Adventures of Tom Sawyer,7.3
+95,113,A Wrinkle in Time,4.2
+96,114,The Joy Luck Club,7.6
+97,115,The Handmaid's Tale,8.6
+98,116,The Sisterhood of the Traveling Pants,6.5
+99,118,The Firm,6.8
+100,119,Room,8.2
+101,121,Dune,6.6
+102,123,Steve Jobs,7.2
+103,124,One Flew Over the Cuckoo's Nest,8.7
+104,125,The Old Man and the Sea,7.0
+105,126,The Grapes of Wrath,8.1
+106,127,Anne of Green Gables,8.4
+107,128,City of Glass,6.8
+108,130,Divine Secrets of the Ya-Ya Sisterhood,6.0
+109,131,Outlander,8.5
+110,132,The Scarlet Letter,5.2
+111,133,Miss Peregrine's Home for Peculiar Children,6.7
+112,135,The Martian,8.0
+113,136,The Pillars of the Earth,8.1
+115,141,Girl with a Pearl Earring,6.9
+116,142,If I Stay,6.8
+117,143,The Red Tent,7.3
+118,145,Dear John,6.3
+119,147,The Tragedy of Macbeth,6.7
+120,148,The Lord of the Rings: The Two Towers,8.7
+121,149,Something Borrowed,5.9
+123,151,Charlie and the Chocolate Factory,6.7
+124,153,Great Expectations,6.8
+125,154,The Return of the King,5.7
+129,159,American Gods,8.1
+130,160,The Stand,7.2
+131,161,The Last Song,5.9
+132,163,Emma,6.7
+133,165,A Clockwork Orange,8.3
+134,168,It,7.4
+135,170,The Bell Jar,5.7
+136,172,Siddhartha,6.7
+137,173,In Cold Blood,8.0
+138,174,Beautiful Creatures,6.2
+140,176,Matilda,6.9
+141,177,The Night Circus,7.3
+142,178,The Other Boleyn Girl,6.7
+144,180,The Lord of the Rings,6.2
+145,182,Watchmen,7.6
+146,186,The Guernsey Literary and Potato Peel Pie Society,7.4
+147,187,Fight Club,8.8
+148,189,The Color Purple,7.8
+149,190,Marley,8.0
+150,191,Ten Little Niggers,7.4
+151,192,Hunting the Lost Symbol,5.9
+152,193,"Hush...Hush, Sweet Charlotte",7.7
+153,194,Interview with the Vampire: The Vampire Chronicles,7.6
+154,195,The Selection,7.5
+155,196,One for the Money,5.3
+156,197,The Immortal Life of Henrietta Lacks,6.3
+157,198,The Silence of the Lambs,8.6
+158,200,Atonement,7.8
+159,201,Die Verwandlung,5.7
+162,208,The Bourne Identity,7.9
+164,210,Fallen,7.0
+165,211,East of Eden,8.0
+166,212,Dark Places,6.2
+167,213,The Client,6.7
+168,214,The Nanny Diaries,6.2
+169,215,Alice's Adventures in Wonderland,5.8
+170,216,Persuasion,7.6
+172,220,Speak,7.3
+173,223,Running with Scissors,6.2
+174,225,Inferno,6.2
+175,227,Along Came a Spider,6.3
+176,228,Misery,7.8
+177,229,Sharp Objects,8.3
+178,230,Bridge to Terabithia,7.2
+179,231,Marked,3.4
+180,232,The 7 Habits of Highly Effective People,7.3
+181,233,A Midsummer Night's Dream,6.5
+182,235,Wonder,8.0
+183,236,The Cat in the Hat,3.8
+184,237,Cinder,7.9
+185,239,Shiver,6.1
+186,240,Atlas Shrugged: Part I,5.7
+187,243,Maze Runner: The Scorch Trials,6.3
+188,244,Under the Tuscan Sun,6.8
+189,245,Big Little Lies,8.6
+190,246,Ella Enchanted,6.3
+191,247,The Sun Also Rises,6.3
+192,248,A Tree Grows in Brooklyn,8.1
+193,249,Kiss the Girls,6.6
+194,250,The Nightingale,7.0
+195,251,Never Let Me Go,7.2
+196,252,P.S. I Love You,7.1
+197,253,Rebecca,8.1
+198,254,Flowers for Algernon,6.9
+199,256,Snow Flower and the Secret Fan,6.1
+200,257,The Godfather,9.2
+201,259,The Foundation of Criminal Excellence,8.5
+202,263,Delirium,5.5
+203,264,The Pelican Brief,6.6
+204,265,Coraline,7.7
+205,267,On the Road,6.1
+207,269,The Lucky One,6.5
+208,270,The Fountainhead,7.1
+209,271,Watership Down,7.7
+211,274,The Chronicles of Narnia: The Voyage of the Dawn Treader,6.3
+212,275,Treasure Island,7.0
+213,277,11.22.63,8.2
+214,278,The Very Hungry Caterpillar,5.3
+215,279,Cat's Cradle,6.2
+216,280,The Time Machine,5.9
+217,282,Heart of Darkness,5.8
+218,283,Safe Haven,6.7
+219,284,The Secret,5.7
+220,286,Pet Sematary,6.6
+221,287,She's Come Undone,6.8
+223,291,Good in Bed?,6.0
+224,292,The Thorn Birds,8.0
+225,294,The Light Between Oceans,7.2
+226,297,A Walk in the Woods,6.3
+227,298,I Know Why the Caged Bird Sings,7.2
+228,299,Orphan Train,7.3
+229,300,City of Lost Souls,7.0
+231,302,Neverwhere,7.3
+232,305,White Oleander,7.2
+233,306,Legend,7.0
+234,308,Hepta: The Last Lecture,7.7
+235,310,The Pact,5.8
+236,312,Still Alice,7.5
+237,314,James and the Giant Peach,6.7
+238,315,1st to Die,5.7
+239,317,One Day,7.0
+240,318,I Am Number Four,6.1
+241,320,The Casual Vacancy,6.6
+242,322,Naked,7.9
+244,324,The Wonderful Wizard of Oz,5.7
+245,326,Salem's Lot,6.8
+248,330,"The Tragedy of Othello, the Moor of Venice",6.9
+249,331,Beloved,5.9
+252,335,"Oh, the Places You'll Go!",8.8
+253,338,Oliver Twist,6.9
+255,341,How the Grinch Stole Christmas!,8.4
+256,342,V for Vendetta,8.2
+257,343,John Adams,8.6
+258,344,Odd Thomas,6.9
+262,350,The BFG,6.4
+263,352,The Call of the Wild,6.0
+264,353,Maze Runner: The Death Cure,6.3
+265,354,Stardust,7.7
+266,355,The Namesake,7.6
+267,356,A Discovery of Witches,8.6
+268,358,Where the Heart Is,6.8
+269,360,A Million Little Pieces,1.3
+270,361,Frostbite,2.9
+271,363,Island of the Blue Dolphins,6.1
+272,364,The Crucible,6.8
+273,365,Hatchet,5.7
+275,368,The Lorax,6.4
+276,372,For Whom the Bell Tolls,7.0
+278,378,A Farewell to Arms,6.5
+279,379,The Tell-Tale Heart,7.6
+280,382,Breakfast of Champions,4.6
+281,384,Bel Canto,5.1
+282,386,Things Fall Apart,8.3
+283,389,The Other Hand,6.7
+284,390,Evermore,7.5
+285,391,The Witches,6.8
+286,392,The Thirteenth Tale,7.0
+288,395,Message in a Bottle,6.2
+289,398,The Elite,3.7
+290,400,Go Ask Alice,6.5
+291,402,The Importance of Being Earnest,6.9
+292,406,Red Dragon,7.2
+293,407,"I, Robot",7.1
+294,409,Crescendo,5.2
+295,410,Before I Fall,6.4
+297,416,Under the Dome,6.7
+299,419,Winnie-the-Pooh,8.4
+300,420,Before I Go to Sleep,6.3
+301,421,A Study in Scarlet,5.7
+303,426,Northanger Abbey,7.3
+304,427,The 5th Wave,5.2
+305,428,Cold Mountain,7.2
+306,429,If You Give a Mouse a Cookie,6.5
+307,430,Something Blue,7.8
+308,431,A Streetcar Named Desire,8.0
+309,432,The Historian,4.4
+311,436,The Good Earth,7.8
+312,437,Ways of Seeing,8.6
+313,439,The Hobbit,6.8
+314,441,Their Eyes Were Watching God,6.6
+315,442,Fantastic Beasts and Where to Find Them,7.4
+316,444,Mansfield Park,7.1
+317,446,In the Woods,2.2
+318,447,The God Delusion Debate,8.0
+319,449,The World According to Garp,7.2
+324,457,Choke,6.5
+325,460,The Green Mile,8.5
+326,461,The Prophet,7.1
+327,465,The Shortest Way Home: C.S. Lewis and Mere Christianity,4.4
+328,466,Hillary's America: The Secret History of the Democratic Party,5.4
+329,468,The Clan of the Cave Bear,5.4
+330,469,Black Beauty,6.6
+331,471,American Psycho,7.6
+332,472,The Princess Diaries,6.3
+333,473,The No. 1 Ladies' Detective Agency,8.2
+334,475,2001: A Space Odyssey,8.3
+335,477,The One,5.9
+336,480,Remember Me?,6.2
+337,484,The Hiding Place,7.6
+338,485,The Adventures of Sherlock Holmes,8.7
+339,486,The Prince of Tides,6.7
+341,489,Peter Pan,7.3
+342,490,Stare Into the Lights My Pretties,9.2
+343,492,The Lincoln Lawyer,7.3
+344,493,Cloud Atlas,7.5
+345,494,The Things They Carried,7.2
+346,496,Pandemonium,5.4
+347,500,Gulliver's Travels,4.9
+348,501,Much Ado About Nothing,7.4
+349,502,Beowulf,6.2
+350,503,Batman: Year One,7.4
+353,509,Midnight in the Garden of Good and Evil,6.6
+354,510,Hopeless,6.0
+355,511,A Little Princess,7.7
+356,514,The Last Sacrifice,3.6
+357,515,Little House on the Prairie,7.4
+358,516,The Velveteen Rabbit,6.4
+359,518,The War of the Worlds,7.2
+360,519,Pretty Little Liars,7.5
+361,520,Corduroy,8.6
+362,522,Life After Life,6.4
+363,523,The Rescue,5.5
+364,524,Voyager,6.8
+365,525,Cujo,6.0
+366,526,The Virgin Suicides,7.2
+367,527,Dead to the World,8.5
+368,529,Madame Bovary,5.7
+369,530,The Phantom Tollbooth,7.0
+370,532,Club Dead,3.4
+371,533,It's Kind of a Funny Story,7.1
+373,535,"Batman: The Dark Knight Returns, Part 1",8.0
+374,537,High Fidelity,7.5
+375,538,The Guardian,6.9
+376,542,Timeline,5.6
+377,543,Candide,6.4
+378,544,Tuck Everlasting,6.7
+379,545,Christine,6.7
+381,547,Outside In: The Story of Art in the Streets,8.5
+382,548,The Scarlet Letter,5.2
+384,550,Silence,7.2
+385,551,The Magicians,7.5
+386,554,Everything Is Illuminated,7.5
+387,555,The Bourne Supremacy,7.8
+388,556,Easy,6.8
+389,557,David Copperfield,7.8
+390,561,Because of Winn-Dixie,6.4
+391,562,A Separate Peace,5.4
+392,563,The Rainmaker,7.1
+393,564,Don Quijote de la Mancha,7.4
+395,567,Torment,7.4
+396,568,The Tale of Peter Rabbit,8.7
+397,569,The Silver Chair,7.2
+398,571,"Girl, Interrupted",7.4
+399,572,Jonathan Livingston Seagull,6.0
+401,575,Cell,4.3
+402,577,LolLOTR: the Silmarillion,7.0
+403,580,Der Prozeß,7.1
+404,582,Plain Truth,6.4
+405,584,The Hound of the Baskervilles,7.6
+406,586,The Mists of Avalon,7.0
+407,588,Nights in Rodanthe,6.0
+408,589,Mr. Mercedes,8.0
+409,591,Midwives,6.1
+410,592,The Polar Express,6.6
+412,594,Patriot Games,6.9
+413,599,Starship Troopers,7.2
+414,600,I've Got Your Number,6.6
+415,601,Sofies verden,6.9
+416,602,The Martian Chronicles,6.7
+417,604,Heidi,7.3
+418,605,The Last Battle,7.0
+419,606,World Without End,7.0
+420,611,Inheritance,7.4
+421,617,Freedom,6.2
+422,618,Crossed,4.6
+424,621,The Corrections,7.2
+425,623,Congo,5.1
+426,624,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",6.2
+427,627,Breakfast at Tiffany's,7.7
+428,628,The Passage,6.3
+429,630,Along for the Ride,7.3
+431,633,The Dead Zone,7.2
+433,637,Suzanne's Diary for Nicholas,6.6
+434,638,Firestarter,6.0
+436,643,THINK and GROW RICH: The Legacy,9.1
+437,645,Jonathan Strange & Mr Norrell,8.2
+438,646,A Bend in the Road,6.4
+439,648,Gone,5.9
+440,649,The Wedding,7.8
+441,650,1776,7.6
+442,656,Sphere,6.1
+443,657,Love the One You're with,3.1
+444,660,State of Wonder,7.4
+445,664,Mrs Dalloway,6.9
+446,666,Bag of Bones,5.8
+447,667,The Cider House Rules,7.4
+448,668,Thinner,5.7
+450,673,Julie,6.2
+451,674,Unwind,6.2
+452,676,Prodigy,6.2
+453,678,Death of a Salesman,7.3
+454,679,The Choice,6.6
+456,686,The Bone Collector,6.7
+457,689,Hyperion,6.3
+458,691,The Exorcist,8.0
+459,693,Snow Falling on Cedars,6.8
+460,694,Roots,8.4
+461,695,Batman: The Killing Joke,6.5
+462,696,Invisible Man,7.0
+463,704,Dead and Gone,3.4
+464,705,The Storyteller,8.9
+467,711,Je fais le mort,5.8
+468,713,Lonesome Dove,8.7
+469,715,Bloodlines,3.9
+470,720,The White Queen,7.8
+472,723,Seabiscuit,7.3
+473,724,Shutter Island,8.1
+474,726,Shaw vs. Shakespeare II: The Tragedy of Julius Caesar,9.0
+475,728,Det æ'kke te å tru,5.8
+476,729,The Taming of the Shrew,7.2
+478,733,Notre-Dame de Paris,9.0
+480,736,The Specials,6.0
+481,737,The Awakening,6.5
+482,738,Hunted,7.5
+483,739,Mitch Albom's For One More Day,5.8
+484,740,Clear and Present Danger,6.9
+485,741,Falling Up,5.7
+486,742,Trainspotting,8.2
+487,744,House Rules,6.9
+488,746,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,6.2
+490,748,About a Boy,7.1
+491,750,The Story of My Life,6.8
+492,751,This Is Where I Leave You,6.6
+493,752,Abraham Lincoln: Vampire Hunter,5.9
+494,753,Kill Bill: Vol. 1,8.1
+495,754,The Tempest,5.4
+496,757,The Circle,5.3
+497,760,Kill Bill: Vol. 1,8.1
+498,761,The Good Girl,6.5
+499,762,Landline,6.4
+500,763,Tempted,5.5
+501,764,No Country for Old Men,8.1
+502,765,Wolf Hall,8.1
+503,766,Howl's Moving Castle,8.2
+504,767,Dreamcatcher,5.5
+505,769,The Remains of the Day,7.9
+506,770,The Best of Me,6.7
+507,771,The Sense of an Ending,6.3
+508,775,The Wind in the Willows,7.8
+509,776,Persepolis,8.1
+510,777,A Room with a View,7.4
+512,781,The Chamber,6.0
+513,782,Naruto: Shippûden,8.4
+514,784,Every Day,6.3
+515,786,The Merchant of Venice,7.1
+516,787,Shogun,8.1
+518,791,Smile,7.2
+520,793,The Deep End of the Ocean,6.4
+522,797,Flowers in the Attic,5.7
+523,798,Maniac Magee,5.0
+524,800,Twelfth Night or What You Will,7.3
+525,802,The Westing Game,5.4
+526,803,Red Rising,7.6
+527,808,Guess How Much I Love You: The Adventures of Little Nutbrown Hare,7.7
+528,810,Night Shift,6.5
+529,811,Jaws,8.0
+530,812,The History of Love,6.4
+532,819,Brain on Fire,6.6
+533,821,Curious George,6.5
+534,822,60 Millionen für Phantásien - Wie die 'unendliche Geschichte' ins Kino kam,9.2
+535,823,A Beautiful Mind,8.2
+536,824,The Jungle,4.0
+537,825,The Summoning,4.6
+538,828,The Blind Assassin,7.4
+539,829,Hollow City,7.1
+540,830,House of Sand and Fog,7.6
+541,831,The Girl with All the Gifts,6.7
+542,832,As I Lay Dying,5.4
+543,833,Harold and the Purple Crayon,7.4
+544,835,Fool Moon,5.3
+545,836,David and Goliath,4.7
+546,837,Kill Bill: Vol. 1,8.1
+547,840,We Need to Talk About Kevin,7.5
+548,841,Rendezvous with Rama,6.3
+549,843,The Age of Innocence,7.2
+550,847,Anthem,7.3
+551,849,Cloudy with a Chance of Meatballs,7.0
+552,852,The Tenth Circle,5.9
+553,853,The Throne of Fire,3.4
+554,855,Gerald's Game,6.6
+556,858,Insomnia,7.2
+557,862,The Shipping News,6.8
+561,873,Olive Kitteridge,8.3
+563,876,Fire,7.3
+564,877,White Fang,6.7
+565,880,The Edge of Never,7.3
+566,883,The Hours,7.6
+569,886,Desperation,5.3
+570,887,Passion,5.3
+571,890,Empire Falls,7.4
+572,893,Survivor,5.6
+573,895,The Dark Tower,5.7
+574,899,Linger,4.9
+575,900,A Portrait of the Artist as a Young Man,6.4
+576,901,The Gathering Storm,7.6
+577,902,Middlemarch,7.7
+578,904,Thoughtless,6.9
+579,905,The Dark Half,5.9
+581,911,The Man in the High Castle,8.1
+582,916,Blue Bloods,7.5
+583,917,The Alienist,7.8
+584,919,Paradise Lost,5.2
+585,921,A Monster Calls,7.5
+586,923,The Day of the Jackal,7.8
+588,925,Attachments,7.9
+589,927,All Creatures Great and Small,8.3
+590,929,The Scarlet Pimpernel,7.7
+591,934,Champion,7.4
+592,935,Contact,7.4
+593,937,White Teeth,7.4
+594,940,Connected: The Power of Six Degrees,7.6
+595,941,The Interestings,7.1
+596,945,The Surgeon,4.9
+597,948,Childhood's End,6.9
+598,949,The Making of 'The Tale of Despereaux',6.4
+599,959,A Moveable Feast with Fine Cooking,6.6
+601,964,My Effortless Brilliance,5.5
+602,965,The Street Lawyer,7.5
+603,966,"Roll of Thunder, Hear My Cry",5.5
+604,967,Pride and Prejudice and Zombies,5.8
+605,970,Dirk Gently's Holistic Detective Agency,8.4
+606,971,Diary of a Wimpy Kid: Rodrick Rules,6.6
+607,972,Why Not Me?,6.7
+608,974,Modern Romance,7.0
+609,980,Handle with Care,6.9
+610,982,Midnight's Children,6.2
+611,984,Agatha Christie's Miss Marple: The Murder at the Vicarage,7.5
+612,989,The Woman in White,6.6
